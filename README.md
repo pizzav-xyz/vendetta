@@ -40,11 +40,10 @@
 > Vendetta is no longer included in the instructions below, as it has reached
 > "End of Life."
 
-1. Choose a flavor + accent combination from the [themes](./themes) directory and copy the URL in the following format:
+1. Copy the install link:
    ```
-   https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/<flavor>/<accent>.json
+   https://raw.githubusercontent.com/pizzav-xyz/vendetta/main/themes/mocha/custom.json
    ```
-   For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/mocha/mauve.json`
 
 2. Head to `Settings` > `Bunny`, `Revenge` or `Enmity` > `Themes`
 3. Paste the copied link and press `Install`
