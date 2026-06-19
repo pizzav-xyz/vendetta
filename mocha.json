@@ -1,10 +1,10 @@
 {
-  "name": "† Catppuccin Mocha (OUTDATED)",
-  "description": "Theme has changed locations. Visit: https://github.com/catppuccin/vendetta/",
+  "name": "Catppuccin Mocha",
+  "description": "Soothing pastel theme for the high-spirited! Custom golden accent (#FFAF00).",
   "authors": [
     {
       "name": "Catppuccin"
     }
   ],
-    "spec": 2
+  "spec": 2
 }
